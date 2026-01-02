@@ -1,16 +1,16 @@
 ##RESTFUL-API-DEVELOPMENT
 
-*COMPANY NAME*:CODTECH IT SOLUTIONS
+*COMPANY NAME*: CODTECH IT SOLUTIONS
 
-*NAME*:RAKSHITHA.S
+*NAME*: RAKSHITHA.S
 
-*INTERN ID*:CT04DR3091
+*INTERN ID*: CT04DR3091
 
-*DOMAIN*:SOFTWARE DEVELOPMENT
+*DOMAIN*: SOFTWARE DEVELOPMENT
 
-*DURATION*:4 WEEKS
+*DURATION*: 4 WEEKS
 
-*MENTOR*:NEELA SANTHOSH
+*MENTOR*: NEELA SANTHOSH
 
 ##DESCRIPTION OF RESTFUL API DEVELOPMENT
 
@@ -34,8 +34,8 @@ This API follows important REST principles such as stateless communication, reso
 
 The advantages of this RESTful API include simplicity, scalability, easy testing using tools like browsers or API clients, and flexibility for future integration. It provides a clear separation between frontend and backend components, making the system easier to maintain and extend.
 
+In conclusion, the RESTful API for the Library Management System successfully demonstrates how CRUD operations can be implemented using Python Flask. The project clearly shows the practical application of REST architecture and serves as a strong foundation for understanding modern web service development. The API works efficiently in a local environment and produces accurate outputs, proving that the RESTful API has been correctly designed and implemented.
+
 ##OUTPUT
 
 <img width="1024" height="1536" alt="T2" src="https://github.com/user-attachments/assets/bf74fb6c-4084-4fa3-bf97-5ffd34149d3d" />
-
-In conclusion, the RESTful API for the Library Management System successfully demonstrates how CRUD operations can be implemented using Python Flask. The project clearly shows the practical application of REST architecture and serves as a strong foundation for understanding modern web service development. The API works efficiently in a local environment and produces accurate outputs, proving that the RESTful API has been correctly designed and implemented.
